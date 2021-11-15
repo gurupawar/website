@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://github.com/gurupawar/website/blob/main/src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
             alt="logo"
           />
         </Logo>
