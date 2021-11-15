@@ -25,8 +25,8 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/gurupawar/"
-            target="_blank"
+            href="https://resume.gurupawar.info/"
+            target=""
             rel="noopener noreferrer"
           >
             Resume
