@@ -8,10 +8,10 @@ function Contact() {
         <div className="SectionTitle">Get In Touch</div>
         <div className="BigCard">
           <Email>
-            <span>gurushesh05@gmail.com</span>
+            <span>gurushesh.code@gmail.com</span>
             <a
               className="btn PrimaryBtn"
-              href="mailto:gurushesh05@gmail.com"
+              href="mailto:gurushesh.code@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
