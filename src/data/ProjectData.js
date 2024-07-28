@@ -1,30 +1,34 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-    {
+  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_07.png",
     title: "URL Shortner",
-    description: "Users can generate short URLs with either random strings or custom keywords. They can also set expiration periods for each shortened URL",
+    description:
+      "Users can generate short URLs with either random strings or custom keywords. They can also set expiration periods for each shortened URL",
     tech_stack: "Next.js, TypeScript, TailwindCss, MongoDB, Express",
     github_url: "https://github.com/gurupawar/url_shortner-fullstack",
     demo_url: "https://url-shortnerrr.vercel.app/signin",
   },
-    {
+  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_08.png",
     title: "Markdown-it-ignore-imports",
-    description: "A Markdown-it plugin that allows you to ignore JavaScript import statements in MDX files.",
+    description:
+      "A Markdown-it plugin that allows you to ignore JavaScript import statements in MDX files.",
     tech_stack: "JavaScript",
     github_url: "https://github.com/gurupawar/markdown-it-ignore-imports",
     demo_url: "https://www.npmjs.com/package/markdown-it-ignore-imports",
   },
-     {
+  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_09.png",
     title: "React-Sugar VS Code Plugin",
-    description: "VS Code extension for className and className with {} shortcuts for html tags.",
+    description:
+      "VS Code extension for className and className with {} shortcuts for html tags.",
     tech_stack: "NA",
     github_url: "https://github.com/gurupawar/react-sugar",
-    demo_url: "https://marketplace.visualstudio.com/items?itemName=GurusheshPawar.react-sugar",
+    demo_url:
+      "https://marketplace.visualstudio.com/items?itemName=GurusheshPawar.react-sugar",
   },
-   {
+  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_10.png",
     title: "SPA Landing Page",
     description: "Landing page with framerMotion animation",
