@@ -1,5 +1,13 @@
 // --------------------------------------- Project List
 export const ProjectList = [
+    {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    title: "URL Shortner",
+    description: "Users can generate short URLs with either random strings or custom keywords. They can also set expiration periods for each shortened URL",
+    tech_stack: "Next.js, TypeScript, TailwindCss, MongoDB, Express",
+    github_url: "https://github.com/gurupawar/url_shortner-fullstack",
+    demo_url: "https://url-shortnerrr.vercel.app/signin",
+  },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
     title: "Spense",
